@@ -28,6 +28,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.aider
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -180,3 +181,4 @@ convert2cython_new.py
 convert2cython.py
 /output/ATK
 /output
+.aider*
